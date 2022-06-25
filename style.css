@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+footer{
+    background-color: blue;
+    margin: 10px;
+}
+
+footer:hover{
+    background-color: chartreuse;
+    margin: 20px;
+}
+
+.vk{
+    width: 100px;
+height: 100px;
+}
+
+.msh{
+    height: 280px;
+}
+
+.ert{
+  display: block;
+  width: 350px;
+  background: url(https://cdn-icons.flaticon.com/png/512/4427/premium/4427451.png?token=exp=1656175997~hmac=7e55189ae7698a54cb21ef6b2642b6e7);  
+}
+
+.bul{
+    text-align: center;
+}
